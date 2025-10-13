@@ -1,10 +1,6 @@
 # Hi there, I'm Naoya! 👋
 I'm a Software Engineer at Kaminashi.
 
-# Stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naoya7076)](https://github.com/anuraghazra/github-readme-stats)
-
 # Publishment
 
 - [仕様を変えて速くする —— パフォーマンス改善とAIによる“先回り”検証](https://kaminashi-developer.hatenablog.jp/entry/2025/09/11/faster-with-ai-spec-change)
@@ -12,8 +8,10 @@ I'm a Software Engineer at Kaminashi.
 - [プラットフォーム開発の実例と撤退から学ぶ](https://speakerdeck.com/kaminashi/learning-from-examples-of-platform-development-and-withdrawal)
 
 # Skills
-- TypeScript/JavaScript, React, Node.js
-- Golang, Ruby (on Rails)
+- TypeScript, React
+- Golang, Ruby
+- [Software Engineering in Test](https://developers.freee.co.jp/entry/automated-test-structure-2022)
+- AWS ([SAA](https://www.credly.com/badges/1b4ab834-a6b1-4e6a-a28d-802d95cf8609))
 
 # Contact
 - Twitter(X): [@naoya7076](https://x.com/naoya7076)
