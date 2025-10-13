@@ -12,6 +12,7 @@ I'm a Software Engineer at Kaminashi.
 - Golang, Ruby
 - [Software Engineering in Test](https://developers.freee.co.jp/entry/automated-test-structure-2022)
 - AWS ([SAA](https://www.credly.com/badges/1b4ab834-a6b1-4e6a-a28d-802d95cf8609))
+- [Agriculture](https://note.com/naoya7076/n/n326b10495fe8)
 
 # Contact
 - Twitter(X): [@naoya7076](https://x.com/naoya7076)
