@@ -17,4 +17,5 @@ I'm a Software Engineer at Kaminashi.
 - [Agriculture](https://note.com/naoya7076/n/n326b10495fe8)
 
 # Contact
+- Mail
 - Twitter(X): [@naoya7076](https://x.com/naoya7076)
