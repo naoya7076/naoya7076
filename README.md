@@ -2,9 +2,9 @@
 I'm a Software Engineer at Kaminashi.
 
 # Talks
-- [高凝集と疎結合、純粋なドメイン層。AIの力を最大限引き出す設計思想と、それを破らせない仕組み](https://speakerdeck.com/kaminashi/designing-for-ai-high-cohesion-loose-coupling-and-pure-domains-and-how-to-keep-them-that-way-10-min-talk) (2026-02-24)
-- [その複雑な型、いつ使うんですか？OSSから学ぶ、高度な型定義の活用方法](https://speakerdeck.com/kaminashi/learning-advanced-type-definitions-from-open-source) (2025-11-30)
-- [プラットフォーム開発の実例と撤退から学ぶ](https://speakerdeck.com/kaminashi/learning-from-examples-of-platform-development-and-withdrawal) (2024-07-04)
+- [高凝集と疎結合、純粋なドメイン層。AIの力を最大限引き出す設計思想と、それを破らせない仕組み](https://speakerdeck.com/kaminashi/designing-for-ai-high-cohesion-loose-coupling-and-pure-domains-and-how-to-keep-them-that-way-10-min-talk) @ [TSKaigi Mashup Kansai](https://typescript-jpc.connpass.com/event/382128/) (2026-02-24)
+- [その複雑な型、いつ使うんですか？OSSから学ぶ、高度な型定義の活用方法](https://speakerdeck.com/kaminashi/learning-advanced-type-definitions-from-open-source) @ [フロントエンドカンファレンス関西2025](https://fec-kansai.connpass.com/event/359422/) (2025-11-30)
+- [プラットフォーム開発の実例と撤退から学ぶ](https://speakerdeck.com/kaminashi/learning-from-examples-of-platform-development-and-withdrawal) @ [Platform Engineering Meetup #9](https://platformengineering.connpass.com/event/322020/) (2024-07-04)
 
 # Blog Posts
 - [副作用とロジックの分離。Railway Oriented Programming と Result 型で 「テストしやすい」バリデーションの設計](https://kaminashi-developer.hatenablog.jp/entry/typescript-rop-result-validation-design) (2025-12-16)
