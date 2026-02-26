@@ -2,14 +2,14 @@
 I'm a Software Engineer at Kaminashi.
 
 # Talks
-- [高凝集と疎結合、純粋なドメイン層。AIの力を最大限引き出す設計思想と、それを破らせない仕組み](https://speakerdeck.com/kaminashi/designing-for-ai-high-cohesion-loose-coupling-and-pure-domains-and-how-to-keep-them-that-way-10-min-talk)
-- [その複雑な型、いつ使うんですか？OSSから学ぶ、高度な型定義の活用方法](https://speakerdeck.com/kaminashi/learning-advanced-type-definitions-from-open-source)
-- [プラットフォーム開発の実例と撤退から学ぶ](https://speakerdeck.com/kaminashi/learning-from-examples-of-platform-development-and-withdrawal)
+- [高凝集と疎結合、純粋なドメイン層。AIの力を最大限引き出す設計思想と、それを破らせない仕組み](https://speakerdeck.com/kaminashi/designing-for-ai-high-cohesion-loose-coupling-and-pure-domains-and-how-to-keep-them-that-way-10-min-talk) (2026-02-24)
+- [その複雑な型、いつ使うんですか？OSSから学ぶ、高度な型定義の活用方法](https://speakerdeck.com/kaminashi/learning-advanced-type-definitions-from-open-source) (2025-11-30)
+- [プラットフォーム開発の実例と撤退から学ぶ](https://speakerdeck.com/kaminashi/learning-from-examples-of-platform-development-and-withdrawal) (2024-07-04)
 
 # Blog Posts
-- [副作用とロジックの分離。Railway Oriented Programming と Result 型で 「テストしやすい」バリデーションの設計](https://kaminashi-developer.hatenablog.jp/entry/typescript-rop-result-validation-design)
-- [仕様を変えて速くする —— パフォーマンス改善とAIによる“先回り”検証](https://kaminashi-developer.hatenablog.jp/entry/2025/09/11/faster-with-ai-spec-change)
-- [TypeScriptの"いま”を追う、TSKaigi 2025参加記](https://kaminashi-developer.hatenablog.jp/entry/2025/06/12/122130)
+- [副作用とロジックの分離。Railway Oriented Programming と Result 型で 「テストしやすい」バリデーションの設計](https://kaminashi-developer.hatenablog.jp/entry/typescript-rop-result-validation-design) (2025-12-16)
+- [仕様を変えて速くする —— パフォーマンス改善とAIによる"先回り"検証](https://kaminashi-developer.hatenablog.jp/entry/2025/09/11/faster-with-ai-spec-change) (2025-09-11)
+- [TypeScriptの"いま"を追う、TSKaigi 2025参加記](https://kaminashi-developer.hatenablog.jp/entry/2025/06/12/122130) (2025-06-12)
 
 # Skills
 - TypeScript, React
