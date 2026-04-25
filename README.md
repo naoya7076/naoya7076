@@ -7,6 +7,7 @@ I'm a Software Engineer at Kaminashi.
 - [プラットフォーム開発の実例と撤退から学ぶ](https://speakerdeck.com/kaminashi/learning-from-examples-of-platform-development-and-withdrawal) @ [Platform Engineering Meetup #9](https://platformengineering.connpass.com/event/322020/) (2024-07-04)
 
 # Blog Posts
+- [AI時代こそスケールしないことをしよう — ボトルネックを追ってコードの外へ](https://kaminashi-developer.hatenablog.jp/entry/do-things-that-dont-scale-in-ai-era)(2026-04-22)
 - [AIのための特別なアーキテクチャはいらない ― 0→1開発で実践した設計原則とガードレール](https://kaminashi-developer.hatenablog.jp/entry/you-might-not-need-dedicated-architecture-for-ai) (2026-04-14)
 - [副作用とロジックの分離。Railway Oriented Programming と Result 型で 「テストしやすい」バリデーションの設計](https://kaminashi-developer.hatenablog.jp/entry/typescript-rop-result-validation-design) (2025-12-16)
 - [仕様を変えて速くする —— パフォーマンス改善とAIによる"先回り"検証](https://kaminashi-developer.hatenablog.jp/entry/2025/09/11/faster-with-ai-spec-change) (2025-09-11)
