@@ -3,6 +3,7 @@ I'm a Software Engineer at Kaminashi.
 
 # Talks
 - [実践 TanStack Start ― 新規プロダクトを開発して確立した、サーバーとクライアント境界の設計パターン](https://speakerdeck.com/kaminashi/practical-tanstack-start-server-client-boundary-patterns) @ [TSKaigi 2026](https://2026.tskaigi.org/talks/26) (2026-05-22)
+- [AIのための特別なアーキテクチャはいらない ― 0→1開発で実践した設計原則とガードレール](https://speakerdeck.com/kaminashi/ainotamenote-bie-naakitekutiyahairanai-0-1kai-fa-deshi-jian-sitashe-ji-yuan-ze-togadoreru) @[カミナシ Tech Night #3] (2026-04-16)
 - [高凝集と疎結合、純粋なドメイン層。AIの力を最大限引き出す設計思想と、それを破らせない仕組み](https://speakerdeck.com/kaminashi/designing-for-ai-high-cohesion-loose-coupling-and-pure-domains-and-how-to-keep-them-that-way-10-min-talk) @ [TSKaigi Mashup Kansai](https://typescript-jpc.connpass.com/event/382128/) (2026-02-24)
 - [その複雑な型、いつ使うんですか？OSSから学ぶ、高度な型定義の活用方法](https://speakerdeck.com/kaminashi/learning-advanced-type-definitions-from-open-source) @ [フロントエンドカンファレンス関西2025](https://fec-kansai.connpass.com/event/359422/) (2025-11-30)
 - [プラットフォーム開発の実例と撤退から学ぶ](https://speakerdeck.com/kaminashi/learning-from-examples-of-platform-development-and-withdrawal) @ [Platform Engineering Meetup #9](https://platformengineering.connpass.com/event/322020/) (2024-07-04)
