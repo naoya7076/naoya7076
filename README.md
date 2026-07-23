@@ -2,6 +2,8 @@
 I'm a Software Engineer at Kaminashi.
 
 # Talks
+- [AI時代こそ、スケールしないことをしよう-「作る人」から「なぜ作るか」を考える人へ](https://speakerdeck.com/kaminashi/do-things-that-dont-scale-in-the-ai-era-from-how-to-why) @ [Developers Summit 2026 Summer](https://event.shoeisha.jp/devsumi/20260716/session/6873) (2026-07-16)
+- [関数型の考えをTypeScriptに持ち込んで、テストしやすい純粋関数を増やす—Functional Core, Imperative Shellの実践—](https://speakerdeck.com/kaminashi/pure-at-the-core-effects-at-the-edge-bringing-functional-thinking-into-typescript) @ [関数型まつり](https://fortee.jp/2026fp-matsuri/proposal/2040db10-f825-4378-a854-a953c01e14ff)　(2026-07-11)
 - [実践 TanStack Start ― 新規プロダクトを開発して確立した、サーバーとクライアント境界の設計パターン](https://speakerdeck.com/kaminashi/practical-tanstack-start-server-client-boundary-patterns) @ [TSKaigi 2026](https://2026.tskaigi.org/talks/26) (2026-05-22)
 - [AIのための特別なアーキテクチャはいらない ― 0→1開発で実践した設計原則とガードレール](https://speakerdeck.com/kaminashi/ainotamenote-bie-naakitekutiyahairanai-0-1kai-fa-deshi-jian-sitashe-ji-yuan-ze-togadoreru) @[カミナシ Tech Night #3](https://kaminashi.connpass.com/event/387233/) (2026-04-16)
 - [高凝集と疎結合、純粋なドメイン層。AIの力を最大限引き出す設計思想と、それを破らせない仕組み](https://speakerdeck.com/kaminashi/designing-for-ai-high-cohesion-loose-coupling-and-pure-domains-and-how-to-keep-them-that-way-10-min-talk) @ [TSKaigi Mashup Kansai](https://typescript-jpc.connpass.com/event/382128/) (2026-02-24)
